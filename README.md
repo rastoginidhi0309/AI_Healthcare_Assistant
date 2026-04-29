@@ -12,7 +12,3 @@ This project is an AI-powered Healthcare Assistant built using Streamlit. It hel
 - Python
 - Streamlit
 - Machine Learning
-
-## ▶️ How to Run
-```bash
-python -m streamlit run Streamlit_app.py
